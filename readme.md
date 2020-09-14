@@ -9,6 +9,8 @@ This is project 4 / 20.
 
 You can view a live version [here](https://russ-joke-machine.netlify.app/). If you would like to run this locally, you will need an API key, which you can get for free from the steps below.
 
+You can view the full list of project from this course [here](https://github.com/rperry99/ztm-20-javascript-projects).
+
 ## Thoughts
 
 I have created text to speech projects in the past. This one was different in that it used a joke API to speak the joke. This was a pretty interesting project. It's a neat little app that can be fun for a few minutes listening to your computer tell you some jokes.
